@@ -1,7 +1,7 @@
 affine==2.3.0
 alabaster==0.7.12
 anaconda-client
-anaconda-navigator==1.9.12
+anaconda-navigator
 anaconda-project==0.8.3
 anyio==3.3.4
 argh==0.26.2
