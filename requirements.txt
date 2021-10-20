@@ -62,7 +62,7 @@ geographiclib==1.52
 geopandas==0.9.0
 geoplot==0.4.4
 geopy==2.2.0
-GEOS
+geos==0.2.3
 gevent==1.4.0
 glob2==0.7
 gmpy2==2.0.8
