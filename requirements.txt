@@ -11,7 +11,6 @@ jupyter-server==1.11.1
 jupyterlab==1.2.6
 jupyterlab-pygments==0.1.2
 jupyterlab-server==1.0.6
-numpy==1.18.1
 pandas==1.0.1
 path==13.1.0
 py==1.8.1
